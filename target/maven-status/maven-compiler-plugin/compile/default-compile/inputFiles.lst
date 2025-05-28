@@ -1,0 +1,14 @@
+/home/nelson/Pictures/Pic/Java_temp/Java_temp_1/src/main/java/com/rra/vehicletracking/dto/AuthenticationRequest.java
+/home/nelson/Pictures/Pic/Java_temp/Java_temp_1/src/main/java/com/rra/vehicletracking/model/User.java
+/home/nelson/Pictures/Pic/Java_temp/Java_temp_1/src/main/java/com/rra/vehicletracking/config/SecurityConfig.java
+/home/nelson/Pictures/Pic/Java_temp/Java_temp_1/src/main/java/com/rra/vehicletracking/config/ApplicationConfig.java
+/home/nelson/Pictures/Pic/Java_temp/Java_temp_1/src/main/java/com/rra/vehicletracking/VehicleTrackingApplication.java
+/home/nelson/Pictures/Pic/Java_temp/Java_temp_1/src/main/java/com/rra/vehicletracking/security/JwtAuthenticationFilter.java
+/home/nelson/Pictures/Pic/Java_temp/Java_temp_1/src/main/java/com/rra/vehicletracking/dto/RegisterRequest.java
+/home/nelson/Pictures/Pic/Java_temp/Java_temp_1/src/main/java/com/rra/vehicletracking/model/Role.java
+/home/nelson/Pictures/Pic/Java_temp/Java_temp_1/src/main/java/com/rra/vehicletracking/dto/AuthenticationResponse.java
+/home/nelson/Pictures/Pic/Java_temp/Java_temp_1/src/main/java/com/rra/vehicletracking/controller/AuthenticationController.java
+/home/nelson/Pictures/Pic/Java_temp/Java_temp_1/src/main/java/com/rra/vehicletracking/security/JwtService.java
+/home/nelson/Pictures/Pic/Java_temp/Java_temp_1/src/main/java/com/rra/vehicletracking/service/AuthenticationService.java
+/home/nelson/Pictures/Pic/Java_temp/Java_temp_1/src/main/java/com/rra/vehicletracking/repository/UserRepository.java
+/home/nelson/Pictures/Pic/Java_temp/Java_temp_1/src/main/java/com/rra/vehicletracking/config/SwaggerConfig.java
